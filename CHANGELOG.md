@@ -9,3 +9,16 @@
 ### ⚡ Performance Improvements | 性能优化
 
 * ⚡ 优化首页仪表盘显示效果
+
+## [0.0.2] (2025-06-30)
+
+
+### ⚡ Performance Improvements | 性能优化
+
+* ⚡ 优化登录页显示效果
+* ⚡ 优化404页显示效果
+
+
+###  🐛 Bug Fixes | Bug 修复
+* 🐛修复多层级组织审批找不到上级人员信息
+
