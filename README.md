@@ -95,7 +95,7 @@ PC端：
 
 ## 七、获取方式
 ```diff
-限时特惠：购系统源码赠Uniapp多端适配代码（Android/iOS/微信小程序）
+限时特惠：移动端Uniapp（Android/iOS/微信小程序）8折
 
 交付模式：
 
